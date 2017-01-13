@@ -1,7 +1,7 @@
 # hello-word
 
-Hi humans!
+This place is a "blabla" room talking about everything.
 
-I'm AACBZ001,graduated from DLUT on 7/1/2015. 
+Hi humans! Here is a breif introduction about myself. I'm AACBZ001,graduated from DLUT on 7/1/2015. 
 Now doing some data work in a Fintech company.
-This space is a learning room talking about sql/R/sas.
+
